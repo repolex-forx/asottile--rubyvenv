@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "rubyvenv",
+  "versions": [
+    {
+      "commit": "950bc54c9e3f406f7e574aabdcef6cded74ee32c",
+      "parsed_at": "2026-10-20T21:07:17.228900+00:00",
+      "filetree": "filetree/950bc54c9e3f406f7e574aabdcef6cded74ee32c.nq.gz",
+      "blobs": [
+        "blob/b1447c3015af9511f2dee402ca4b5ad62adf5dce.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/790b98e7065ea9d0f2b9d8c3ffeea3bedfc13b0f.nq.gz",
+        "blob/0833183b4b36f1da722cb77cf1fca83b5cd4dcd5.nq.gz",
+        "blob/212b3ea38b977d7853b41901eac5978fb486c2a0.nq.gz",
+        "blob/ff41a76b8e1e27461e5821cc946d0e7062ca00d7.nq.gz",
+        "blob/5370c9485451439199ab7ab9ba30c95d9a046275.nq.gz",
+        "blob/855495383b010b7f87fb811a9adf194ecab50ad6.nq.gz",
+        "blob/56c2c6ee316227caadf3ce0cec1f342f6d41f5b2.nq.gz",
+        "blob/a5bd4fbb8f1cdf434ca145bfb68e7c3651eaa793.nq.gz",
+        "blob/3d93aefb2da505dba9c0114404cfaaeee5ad0d3f.nq.gz",
+        "blob/0c5a37eb0adeb312718e533d0a4fbcbea6880056.nq.gz",
+        "blob/e93335c39fe998575311ebfcd0b35641e56ec4c8.nq.gz",
+        "blob/8228d5e6d032de2f97c52ab93ff12334ac01d714.nq.gz",
+        "blob/ce53accc83186664d2ba45bf342fdea4f2c114e2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

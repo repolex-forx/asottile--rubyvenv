@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "rubyvenv",
+  "versions": [
+    {
+      "commit": "950bc54c9e3f406f7e574aabdcef6cded74ee32c",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:09:40.012606+00:00"
+    }
+  ]
+}

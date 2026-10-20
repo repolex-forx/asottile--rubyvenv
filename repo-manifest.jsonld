@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/rubyvenv/commit/950bc54c9e3f406f7e574aabdcef6cded74ee32c",
       "git:hexsha": "950bc54c9e3f406f7e574aabdcef6cded74ee32c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T21:09:40.012133+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/rubyvenv/commit/70bd792c44fac692c0182677ea78b4e7259dca73",
